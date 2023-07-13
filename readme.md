@@ -1,0 +1,2 @@
+nome repo: db-first
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario. Usate diagram.net per fare la tabella ed esportate quanto fatto in formato png o jpeg. Create la repo e mettete l'immagine all'interno quindi pushate.
